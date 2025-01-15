@@ -4,7 +4,6 @@ import { strict } from "assert"
 import Image from "next/image";
 import EventCalendar from "@/components/EventCalendar";
 import Link from "next/link";
-import { SearchParams } from "@/components/SearchParams";
 
 const SingleTeacher = async ({ params, searchParams }:
     { params: { [key: string]: string }, searchParams: { [key: string]: string } }) => {
