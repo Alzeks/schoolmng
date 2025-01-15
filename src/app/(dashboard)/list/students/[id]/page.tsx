@@ -74,7 +74,6 @@ const SingleTeacher = async ({ params, searchParams }:
             {/* RIGHT */}
             <div className="w-full xl:w-1/3 border-2">
                 <EventCalendar />
-                <SearchParams />
             </div>
         </div>
     )
