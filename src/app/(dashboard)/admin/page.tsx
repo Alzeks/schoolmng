@@ -1,6 +1,5 @@
 import CalendarContainer from "@/components/CalendarContainer";
-import EventCalendar from "@/components/EventCalendar";
-import { SearchParams } from "@/components/SearchParams";
+import EventCalendar from "@/components/EventCalendar"
 import Link from "next/link";
 import BigCalendar from '@/components/BigCalendar'
 
